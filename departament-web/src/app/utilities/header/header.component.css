@@ -1,0 +1,9 @@
+*{
+  width: 100%;
+  border: blue 1px;
+}
+
+header{
+  width: 100%;
+  border-color: black;
+}
